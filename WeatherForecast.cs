@@ -1,5 +1,8 @@
 namespace AI_Apps
 {
+/// <summary>
+/// This is a sample app.
+/// </summary>
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
