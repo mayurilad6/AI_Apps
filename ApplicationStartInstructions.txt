@@ -1,0 +1,7 @@
+﻿
+1. I have configured a random portal at http://localhost:52000 - can be found at launchSettings.json 
+2. I have added application url to the Program.cs class
+3. Open terminal and navigate to project directory and run the following commands
+		dotnet build
+		dotnet run
+4. Navigate to browser for the link http://localhost:52000/swagger/index.html

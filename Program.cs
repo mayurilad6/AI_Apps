@@ -9,6 +9,8 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.Urls.Add("http://localhost:52000");
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
