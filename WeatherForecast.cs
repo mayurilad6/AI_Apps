@@ -1,7 +1,7 @@
 namespace AI_Apps
 {
 /// <summary>
-/// This is a sample app.
+/// This is a sample app - TEST.
 /// </summary>
     public class WeatherForecast
     {
