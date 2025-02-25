@@ -1,0 +1,8 @@
+﻿# Ignore appsettings.json
+appsettings.json
+
+# Ignore other sensitive configuration files
+secrets.json
+
+# Ignore node_modules directory
+node_modules/
